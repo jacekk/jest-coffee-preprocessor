@@ -1,7 +1,7 @@
 {
   "name": "@onlytabs/jest-coffee-preprocessor",
   "version": "2.0.0",
-  "description": "Simple Coffee Script Preprocessor for Jest Edit",
+  "description": "Simple Coffee Script Preprocessor for Jest >=28",
   "main": "index.js",
   "scripts": {
     "test": "standard"
