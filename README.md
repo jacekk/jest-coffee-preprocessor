@@ -4,6 +4,10 @@ Simple Coffee Script Preprocessor for Jest
 
 # Example Installation:
 
+```sh
+$ npm install @onlytabs/jest-coffee-preprocessor
+```
+
 
 In package.json:
 
@@ -11,7 +15,7 @@ In package.json:
   "jest" :{
     "transform": {
       "^.+\\.jsx?$": "<rootDir>/node_modules/babel-jest",
-      "^.+\\.coffee$": "<rootDir>/node_modules/jest-coffee-preprocessor/index.js"
+      "^.+\\.coffee$": "<rootDir>/node_modules/@onlytabs/jest-coffee-preprocessor/index.js"
     },
     "moduleFileExtensions": [
       "coffee",
