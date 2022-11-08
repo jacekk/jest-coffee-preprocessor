@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/jacekk/jest-coffee-preprocessor#readme",
   "dependencies": {
-    "coffee-script": "^1.12.6"
+    "coffeescript": "^2.7.0"
   },
   "devDependencies": {
     "standard": "^17.0.0"
